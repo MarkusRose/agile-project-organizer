@@ -1,5 +1,9 @@
 import React from "react";
 
+const tasks = require("./data/tasks.json");
+
+console.log(tasks);
+
 function Body() {
     return (
         <div className="content-window">
