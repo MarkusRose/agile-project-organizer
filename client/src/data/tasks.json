@@ -3,17 +3,20 @@
         {
             "title": "Arrive in Munich",
             "status": "Not done yet",
-            "description": "We'll still have to ride this train until we arrive in Munich."
+            "description": "We'll still have to ride this train until we arrive in Munich.",
+            "key": 1
         },
         {
             "title": "Write some React code",
             "status": "In Progress",
-            "description": "We are currently writing some React code."
+            "description": "We are currently writing some React code.",
+            "key": 2
         },
         {
             "title": "Proof read Maggie's paper",
             "status": "In Progress",
-            "description": "Need to proof read Maggie's paper."
+            "description": "Need to proof read Maggie's paper.",
+            "key": 3
         }
     ]
 }
